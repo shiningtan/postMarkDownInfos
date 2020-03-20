@@ -1,0 +1,8 @@
+com.tencent.libspeechcommon.def
+com.tencent.wecarspeech.sdk
+com.tencent.wecarspeech.sdk.api
+com.tencent.wecarspeech.sdk.constants
+com.tencent.wecarspeech.sdk.listener
+com.tencent.wecarspeech.sdk.manager
+com.tencent.wecarspeech.sdk.model
+com.tencent.wecarspeech.sdk.util
